@@ -1,2 +1,2 @@
-# fraud_detection_project
-Fraud Detection project
+			Цели и метрики проекта
+
